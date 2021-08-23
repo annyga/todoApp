@@ -1,0 +1,12 @@
+
+Frontend:
+-use react
+-SPA, three pages, welcome, todos and infopage? Use react router.
+-use appcontext to pass props.
+-style with bootstrap.
+-http requests with axios.
+
+Backend:
+-express.
+-controllers and routers.
+-mongodb with mongoose (Schema) and atlas.
